@@ -1,0 +1,16 @@
+content.bundle.js:1 XHR finished loading: POST "https://browser.pipe.aria.microsoft.com/Collector/3.0/?qsp=true&content-type=application%2Fbond-compact-binary&client-id=NO_AUTH&sdk-version=AWT-Web-JS-1.8.6&x-apikey=a387cfcf60114a43a7699f9fbb49289e-9bceb9fe-1c06-460f-96c5-6a0b247358bc-7238&client-time-epoch-millis=1616266372196&time-delta-to-apply-millis=-64".
+sendPOST @ content.bundle.js:1
+e._sendRequest @ content.bundle.js:1
+e.sendQueuedRequests @ content.bundle.js:1
+e.sendEventsForPriorityAndAbove @ content.bundle.js:1
+e._batchAndSendEvents @ content.bundle.js:1
+(anonymous) @ content.bundle.js:1
+setTimeout (async)
+e.scheduleTimer @ content.bundle.js:1
+e.sendEvent @ content.bundle.js:1
+e._sendEvent @ content.bundle.js:1
+e._logEvent @ content.bundle.js:1
+e.logEvent @ content.bundle.js:1
+(anonymous) @ content.bundle.js:1
+e.flush @ content.bundle.js:1
+(anonymous) @ content.bundle.js:1
